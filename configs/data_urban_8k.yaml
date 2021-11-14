@@ -1,0 +1,8 @@
+version: 1.0
+datapath: 
+
+epochs: 2
+batch_size: 128
+shuffle: True
+
+model: 'm5'
